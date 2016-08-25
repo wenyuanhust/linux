@@ -1,0 +1,56 @@
+total 6349
+-rw-r--r-- 1 wenyuan 1049089       0 Jul 20 14:12 =
+-rw-r--r-- 1 wenyuan 1049089       0 Jul 20 14:16 =60
+-rw-r--r-- 1 wenyuan 1049089       4 Jul 19 08:50 111
+drwxr-xr-x 1 wenyuan 1049089       0 Jul 19 08:49 123/
+drwxr-xr-x 1 wenyuan 1049089       0 Jul 19 08:50 1234/
+-rw-r--r-- 1 wenyuan 1049089       4 Jul 19 08:52 222
+drwxr-xr-x 1 wenyuan 1049089       0 Jul 19 08:55 aa/
+-rw-r--r-- 1 wenyuan 1049089   34645 Jul 14 10:43 alarm.v
+drwxr-xr-x 1 wenyuan 1049089       0 Jul 14 18:11 AppData/
+lrwxrwxrwx 1 wenyuan 1049089      32 Jul 11 11:06 Application Data -> /c/Users/wenyuan/AppData/Roaming/
+drwxr-xr-x 1 wenyuan 1049089       0 Jul 19 08:55 bb/
+-rw-r--r-- 1 wenyuan 1049089       1 Jul 21 12:13 case.sh
+drwxr-xr-x 1 wenyuan 1049089       0 Jul 11 11:08 Contacts/
+lrwxrwxrwx 1 wenyuan 1049089      58 Jul 11 11:06 Cookies -> /c/Users/wenyuan/AppData/Roaming/Microsoft/Windows/Cookies/
+drwxr-xr-x 1 wenyuan 1049089       0 Jul 28 12:23 Desktop/
+drwxr-xr-x 1 wenyuan 1049089       0 Aug  9 09:51 Documents/
+drwxr-xr-x 1 wenyuan 1049089       0 Aug 16 15:39 Downloads/
+drwxr-xr-x 1 wenyuan 1049089       0 Jul 11 11:08 Favorites/
+-rw-r--r-- 1 wenyuan 1049089 1107888 Aug 16 16:11 HDL.tgz
+-rw-r--r-- 1 wenyuan 1049089      60 Jul 20 13:59 if1.sh
+-rw-r--r-- 1 wenyuan 1049089      74 Jul 20 14:05 if2.sh
+-rw-r--r-- 1 wenyuan 1049089     116 Jul 20 14:15 if3.sh
+drwxr-xr-x 1 wenyuan 1049089       0 Aug  8 20:12 ioa/
+drwxr-xr-x 1 wenyuan 1049089       0 Jul 19 15:58 learn_linux/
+drwxr-xr-x 1 wenyuan 1049089       0 Jul 15 15:43 Links/
+lrwxrwxrwx 1 wenyuan 1049089      30 Jul 11 11:06 Local Settings -> /c/Users/wenyuan/AppData/Local/
+drwxr-xr-x 1 wenyuan 1049089       0 Jul 28 13:14 Lync Recordings/
+drwxr-xr-x 1 wenyuan 1049089       0 Jul 11 11:08 Music/
+lrwxrwxrwx 1 wenyuan 1049089      26 Jul 11 11:06 My Documents -> /c/Users/wenyuan/Documents/
+lrwxrwxrwx 1 wenyuan 1049089      68 Jul 11 11:06 NetHood -> /c/Users/wenyuan/AppData/Roaming/Microsoft/Windows/Network Shortcuts/
+-rw-r--r-- 1 wenyuan 1049089 3407872 Aug 17 19:51 NTUSER.DAT
+-rw-r--r-- 1 wenyuan 1049089  262144 Aug 17 19:51 ntuser.dat.LOG1
+-rw-r--r-- 1 wenyuan 1049089       0 Jul 11 11:06 ntuser.dat.LOG2
+-rw-r--r-- 1 wenyuan 1049089   65536 Jul 11 16:48 NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf
+-rw-r--r-- 1 wenyuan 1049089  524288 Jul 11 16:48 NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r-- 1 wenyuan 1049089  524288 Jul 11 16:48 NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms
+-rw-r--r-- 1 wenyuan 1049089      20 Jul 11 11:06 ntuser.ini
+-r--r--r-- 1 wenyuan 1049089    4322 Jul 27 08:06 ntuser.pol
+drwxr-xr-x 1 wenyuan 1049089       0 Jul 26 17:11 Pictures/
+lrwxrwxrwx 1 wenyuan 1049089      68 Jul 11 11:06 PrintHood -> /c/Users/wenyuan/AppData/Roaming/Microsoft/Windows/Printer Shortcuts/
+lrwxrwxrwx 1 wenyuan 1049089      57 Jul 11 11:06 Recent -> /c/Users/wenyuan/AppData/Roaming/Microsoft/Windows/Recent/
+-rw-r--r-- 1 wenyuan 1049089       0 Aug 17 19:52 rootfile
+drwxr-xr-x 1 wenyuan 1049089       0 Jul 11 11:08 Saved Games/
+drwxr-xr-x 1 wenyuan 1049089       0 Jul 22 08:32 Searches/
+lrwxrwxrwx 1 wenyuan 1049089      57 Jul 11 11:06 SendTo -> /c/Users/wenyuan/AppData/Roaming/Microsoft/Windows/SendTo/
+lrwxrwxrwx 1 wenyuan 1049089      61 Jul 11 11:06 Start Menu -> /c/Users/wenyuan/AppData/Roaming/Microsoft/Windows/Start Menu/
+lrwxrwxrwx 1 wenyuan 1049089      60 Jul 11 11:06 Templates -> /c/Users/wenyuan/AppData/Roaming/Microsoft/Windows/Templates/
+-rw-r--r-- 1 wenyuan 1049089     142 Jul 20 12:15 test2.sh
+-rw-r--r-- 1 wenyuan 1049089      40 Jul 20 12:17 test3.sh
+-rw-r--r-- 1 wenyuan 1049089     130 Jul 20 12:19 test4.sh
+-rw-r--r-- 1 wenyuan 1049089      78 Jul 20 12:34 test5.sh
+-rw-r--r-- 1 wenyuan 1049089      29 Jul 20 12:38 test6.sh
+drwxr-xr-x 1 wenyuan 1049089       0 Aug 17 08:12 Tracing/
+-rw-r--r-- 1 wenyuan 1049089     291 Jul 14 14:12 vavlog.log
+drwxr-xr-x 1 wenyuan 1049089       0 Jul 11 11:08 Videos/

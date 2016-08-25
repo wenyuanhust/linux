@@ -1,0 +1,4 @@
+my test of vim
+next
+fine 
+great!wq
